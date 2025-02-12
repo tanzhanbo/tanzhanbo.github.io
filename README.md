@@ -1,7 +1,7 @@
 # Zhanbo Tan
 
 ## Overview
-This repository contains the source code and documentation for **[Project Name]**, developed as part of EECS 494. The project was built using various game development and project management technologies.
+EECS440 Project 1
 
 ## Technologies Used
 - **Unreal Engine 5** – Game development and rendering  
